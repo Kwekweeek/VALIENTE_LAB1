@@ -8,13 +8,13 @@ This Java program prints a half-diamond star number pattern based on user input.
 
 For an input of `4`, the output will be:
 
-*1*
-*121*
-*12321*
-*1234321*
-*12321*
-*121*
-*1*
+1
+121
+12321
+1234321
+12321
+121
+1
 
 
 ## How to Run
