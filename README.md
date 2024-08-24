@@ -8,7 +8,7 @@ This Java program prints a half-diamond star number pattern based on user input.
 
 For an input of `5`, the output will be:
 
-1. * 1*
+1. *1 *
 2. * 121*
 3. * 12321*
 4. * 1234321*
