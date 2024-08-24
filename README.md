@@ -9,14 +9,14 @@ This Java program prints a half-diamond star number pattern based on user input.
 For an input of `5`, the output will be:
 
 1. *1 *
-2. * 121*
-3. * 12321*
-4. * 1234321*
-5. * 123454321*
-6. * 1234321*
-7. * 12321*
-8. * 121*
-9. * 1*
+2. *121 *
+3. *12321 *
+4. *1234321 *
+5. *123454321 *
+6. *1234321 *
+7. *12321 *
+8. *121 *
+9. *1 *
 
 
 ## How to Run
